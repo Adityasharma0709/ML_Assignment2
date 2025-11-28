@@ -54,3 +54,4 @@ Missing Values: No missing values were found in the dataset, so no imputation wa
 ### Data Splitting:
 
 - The data was split into 80% Training and 20% Testing sets using stratified sampling to maintain the 80:20 class distribution in both sets.
+<img width="1891" height="797" alt="image" src="https://github.com/user-attachments/assets/39133bad-77a4-4687-95bf-d177043ffe21" />
